@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BuyProductArray {
     public static void main(String[] args) {
-        String[] products = { "cola", "sandwich", "chips", "cookie", "juice" };
+        String[] products = {"可樂", "三明治", "薯條", "餅乾", "果汁"};
         int[] prices = { 30, 65, 45, 35, 40 };
         int[] stock = { 10, 5, 8, 12, 7 };
 
